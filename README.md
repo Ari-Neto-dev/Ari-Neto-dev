@@ -3,7 +3,7 @@
 <!--
 **Ari-Neto-dev/Ari-Neto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-"Olá, meu nome é [Seu Nome] e sou um desenvolvedor apaixonado por tecnologia. Tenho experiência em [mencione suas áreas de especialização, como desenvolvimento web, mobile, data science, etc.]. Acredito no poder da programação para transformar ideias em soluções concretas e adoro enfrentar desafios complexos. Sou uma pessoa curiosa e sempre estou em busca de aprender novas tecnologias e aprimorar minhas habilidades. Trabalhar em equipe e colaborar com outros desenvolvedores é algo que valorizo muito. Estou animado para enfrentar novos projetos e contribuir para o crescimento do setor de tecnologia."
+Olá, meu nome é Ari Neto e sou um desenvolvedor apaixonado por tecnologia. Tenho experiência em Html, CSS, JavaScript, React e Angular. Acredito no poder da programação para transformar ideias em soluções concretas e adoro enfrentar desafios complexos. Sou uma pessoa curiosa e sempre estou em busca de aprender novas tecnologias e aprimorar minhas habilidades. Trabalhar em equipe e colaborar com outros desenvolvedores é algo que valorizo muito. Estou animado para enfrentar novos projetos e contribuir para o crescimento do setor de tecnologia.
 
 ### My stacks and tools are:
 
