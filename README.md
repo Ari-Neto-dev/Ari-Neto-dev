@@ -18,11 +18,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-<br />
 
 ### Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-neto-developer/)](https://www.linkedin.com/in/ari-neto-developer/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-%23333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azevedo.consultor@hotmail.com)](azevedo.consultor@hotmail.com)
-
-
