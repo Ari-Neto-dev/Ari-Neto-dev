@@ -23,3 +23,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ari-neto-developer/)](https://www.linkedin.com/in/ari-neto-developer/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-%23333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azevedo.consultor@hotmail.com)](azevedo.consultor@hotmail.com)
+
+____
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ari-Neto-dev&count_private=true" alt="Ari-Neto-dev"/>
+  <br/>
+  ____
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ari-Neto-dev&layout=compact&show_icons=true&theme=blue" alt="Ari-Neto-dev">
+</p>
