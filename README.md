@@ -29,8 +29,8 @@ Sou sócio da **SDTechDev**, empresa focada no desenvolvimento de **landing page
 
 ## Contato
 
-LinkedIn  
+**LinkedIn**  
 https://www.linkedin.com/in/ari-neto-developer/
 
-Site  
+**Site**  
 https://www.sdtechdev.com.br/
