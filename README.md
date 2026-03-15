@@ -33,4 +33,4 @@ Sou sócio da **SDTechDev**, empresa focada no desenvolvimento de **landing page
 https://www.linkedin.com/in/ari-neto-developer/
 
 **Site**  
-https://www.sdtechdev.com.br/
+https://www.sdtechdev.com.br/ 
